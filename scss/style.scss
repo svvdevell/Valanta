@@ -1,0 +1,31 @@
+.wrapper {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.top-nav {
+    padding-top: 17px;
+    padding-bottom: 11px;
+    display: flex;
+    .top-nav-logo {
+        margin-right: 27px;
+        a {
+            display: inline-block;
+        }
+    }
+    .language-button {
+        margin-left: 26px;
+        margin-right: 25px;
+        button p {
+        
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 21px;
+            text-align: center;
+            color: #1F1F1F;
+            text-transform: uppercase;
+        }
+    }
+    
+}

@@ -1,0 +1,29 @@
+.wrapper {
+  width: 1240px;
+  margin: 0 auto;
+}
+
+.top-nav {
+  padding-top: 17px;
+  padding-bottom: 11px;
+  display: flex;
+}
+.top-nav .top-nav-logo {
+  margin-right: 27px;
+}
+.top-nav .top-nav-logo a {
+  display: inline-block;
+}
+.top-nav .language-button {
+  margin-left: 26px;
+  margin-right: 25px;
+}
+.top-nav .language-button button p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  color: #1F1F1F;
+  text-transform: uppercase;
+}
